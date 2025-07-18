@@ -11,3 +11,6 @@ sudo apt autoremove
 
 # Clean the cache
 sudo apt autoclean
+
+# Reboot the host
+sudo reboot
